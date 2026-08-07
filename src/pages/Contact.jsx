@@ -49,13 +49,7 @@ const Contact = () => {
 
           <p>
             <strong>📞 Phone:</strong><br />
-            +977-9800000000
-          </p>
-
-          <p>
-            <strong>🕒 Working Hours:</strong><br />
-            Sunday – Friday<br />
-            9:00 AM – 5:00 PM
+            +977-9812345678
           </p>
         </div>
 
